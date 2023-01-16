@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrankDiCostanzo
-- 👀 I’m a Front-End Developer
+- 👀 I’m a Self-Taught Front-End Developer
 - 🌱 I’m currently learning Back-end Developing
 - 📫 How to reach me Dicos530@gmail.com...
 
